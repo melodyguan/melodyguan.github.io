@@ -1,9 +1,5 @@
 # Site settings
 title: Melody Guan's Blog
-description: > "" # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://www.alexirpan.com" # the base hostname & protocol for your site
-github_username:  melodyguan
+github_username: melodyguan
 timezone: "America/Los_Angeles"
-
 theme: jekyll-theme-cayman
