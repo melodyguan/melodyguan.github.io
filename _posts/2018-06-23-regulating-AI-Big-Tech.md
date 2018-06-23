@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: null
 title:  "Regulating AI in the Era of Big Tech"
-date:   2018-06-23 15:40:00 -0700
+date:   2018-06-23 03:40:00 -0700
 ---
 
 During early April 2018, Mark Zuckerberg testified before a confused Congress about issues relating to the [Facebook–Cambridge Analytica data scandal](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html). After about two days of unfocused questioning by senators, Facebook gained more more than $25 billion in market value. The message to financial onlookers was clear: Facebook is immune to governmental regulation.
