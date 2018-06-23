@@ -3,7 +3,7 @@ layout: default
 title: Melody Guan's Blog
 ---
 
-{% for post in site.latest_posts %}
+{% for post in site._posts %}
   <div class="entry">
   	<div class="entrytitle">
   		<h2><a href="{{ post.url }}">{{ post.title }}</a> <span class="author">{{ post.author }}</span></h2> 
@@ -20,14 +20,14 @@ title: Melody Guan's Blog
   </div>
 {% endfor %}
 
-{% for post in site.older_posts %}
+<!-- {% for post in site.older_posts %}
   <div class="entry old_entry">
   	<div class="entrytitle">
   		<h2><a href="{{ post.url }}">{{ post.title }}</a> <span class="author">{{ post.author }}</span></h2> 
   		<h3>{{ post.date | date_to_string }} | <a href="{{ post.url }}#disqus_thread" class="commentslink">View comments</a></h3>
   	</div>
   </div>
-{% endfor %}
+{% endfor %} -->
 
 <div class="archive_link">
   <a href="/archive">View all previous posts in archive &raquo;</a>
