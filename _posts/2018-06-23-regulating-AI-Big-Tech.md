@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Regulating AI in the Era of Big Tech"
 date:   2018-06-23 15:40:00 -0700
 ---
