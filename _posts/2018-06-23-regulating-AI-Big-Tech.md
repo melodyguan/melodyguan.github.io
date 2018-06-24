@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Regulating AI in the Era of Big Tech"
 date:   2018-06-23 03:40:00 -0700
 ---
